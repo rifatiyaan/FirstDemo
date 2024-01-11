@@ -1,0 +1,24 @@
+﻿.myBtn {
+  background-color: green;
+}
+
+.myBtn2 {
+  background-color: green;
+}
+
+.firstSection {
+  background-color: dodgerblue;
+}
+.firstSection button {
+  color: blueviolet;
+  background-color: deepskyblue;
+}
+.firstSection button:hover {
+  color: gold;
+  background-color: coral;
+}
+
+.myPara {
+  color: yellow;
+  background-color: cyan;
+}

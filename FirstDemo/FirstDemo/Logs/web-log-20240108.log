@@ -1,0 +1,236 @@
+2024-01-08 00:04:24.134 +06:00 [INF] I am in index page
+2024-01-08 00:10:36.793 +06:00 [INF] I am in index page
+2024-01-08 00:14:55.350 +06:00 [INF] I am in index page
+2024-01-08 00:18:43.675 +06:00 [INF] I am in index page
+2024-01-08 00:21:07.746 +06:00 [INF] I am in index page
+2024-01-08 00:27:57.437 +06:00 [INF] I am in index page
+2024-01-08 00:32:11.121 +06:00 [INF] I am in index page
+2024-01-08 00:33:22.435 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 46
+2024-01-08 00:33:29.643 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 46
+2024-01-08 00:33:36.765 +06:00 [INF] I am in index page
+2024-01-08 00:34:31.401 +06:00 [INF] I am in index page
+2024-01-08 00:37:41.074 +06:00 [INF] I am in index page
+2024-01-08 01:09:19.082 +06:00 [INF] I am in index page
+2024-01-08 01:11:29.218 +06:00 [INF] I am in index page
+2024-01-08 01:18:01.346 +06:00 [INF] I am in index page
+2024-01-08 01:19:44.204 +06:00 [INF] I am in index page
+2024-01-08 01:38:44.805 +06:00 [INF] I am in index page
+2024-01-08 01:48:35.828 +06:00 [INF] I am in index page
+2024-01-08 01:58:06.535 +06:00 [INF] I am in index page
+2024-01-08 02:02:07.514 +06:00 [INF] I am in index page
+2024-01-08 02:03:23.504 +06:00 [INF] I am in index page
+2024-01-08 02:03:55.356 +06:00 [INF] I am in index page
+2024-01-08 12:34:44.695 +06:00 [INF] I am in index page
+2024-01-08 12:49:15.042 +06:00 [INF] I am in index page
+2024-01-08 13:06:06.714 +06:00 [INF] I am in index page
+2024-01-08 13:13:41.767 +06:00 [INF] I am in index page
+2024-01-08 13:14:35.255 +06:00 [INF] I am in index page
+2024-01-08 13:26:20.873 +06:00 [INF] I am in index page
+2024-01-08 13:27:28.085 +06:00 [INF] I am in index page
+2024-01-08 13:40:47.737 +06:00 [INF] I am in index page
+2024-01-08 13:46:01.001 +06:00 [INF] I am in index page
+2024-01-08 13:47:31.555 +06:00 [INF] I am in index page
+2024-01-08 13:52:46.554 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 47
+2024-01-08 13:53:00.887 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 47
+2024-01-08 13:53:22.354 +06:00 [INF] I am in index page
+2024-01-08 16:31:07.591 +06:00 [INF] I am in index page
+2024-01-08 16:41:52.572 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:42:09.641 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:43:56.659 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:44:04.597 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:44:35.891 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:46:29.577 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:46:41.992 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:47:21.733 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:49:20.471 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 16:50:02.544 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 17:09:19.898 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 17:11:57.817 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 17:13:14.653 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 17:14:17.409 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 17:15:53.552 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 17:17:03.793 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 17:17:28.879 +06:00 [FTL] Failed to start application
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo\Program.cs:line 48
+2024-01-08 17:17:56.664 +06:00 [INF] I am in index page
+2024-01-08 17:19:17.561 +06:00 [INF] I am in index page
+2024-01-08 17:24:38.027 +06:00 [INF] I am in index page
+2024-01-08 17:25:37.798 +06:00 [INF] I am in index page
+2024-01-08 18:11:39.702 +06:00 [INF] I am in index page
+2024-01-08 19:31:19.440 +06:00 [INF] I am in index page
+2024-01-08 19:40:11.149 +06:00 [INF] I am in index page
+2024-01-08 19:40:19.912 +06:00 [INF] I am in index page
+2024-01-08 20:00:14.701 +06:00 [INF] I am in index page
+2024-01-08 20:14:07.909 +06:00 [INF] I am in index page
+2024-01-08 20:44:55.470 +06:00 [INF] I am in index page
+2024-01-08 20:51:35.418 +06:00 [INF] I am in index page
+2024-01-08 20:52:17.496 +06:00 [INF] I am in index page
+2024-01-08 22:38:22.551 +06:00 [INF] I am in index page
+2024-01-08 22:50:38.173 +06:00 [INF] I am in index page

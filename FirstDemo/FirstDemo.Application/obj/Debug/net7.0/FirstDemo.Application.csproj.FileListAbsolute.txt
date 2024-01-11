@@ -1,0 +1,15 @@
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.csproj.AssemblyReference.cache
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.AssemblyInfoInputs.cache
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.AssemblyInfo.cs
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.csproj.CoreCompileInputs.cache
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Application.deps.json
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Application.dll
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Application.pdb
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Domain.dll
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\bin\Debug\net7.0\FirstDemo.Domain.pdb
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.csproj.CopyComplete
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.dll
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\refint\FirstDemo.Application.dll
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\FirstDemo.Application.pdb
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Application\obj\Debug\net7.0\ref\FirstDemo.Application.dll

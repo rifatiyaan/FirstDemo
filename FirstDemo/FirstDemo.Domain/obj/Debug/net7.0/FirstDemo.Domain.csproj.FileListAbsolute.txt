@@ -1,0 +1,11 @@
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\bin\Debug\net7.0\FirstDemo.Domain.deps.json
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\bin\Debug\net7.0\FirstDemo.Domain.dll
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\bin\Debug\net7.0\FirstDemo.Domain.pdb
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.AssemblyInfoInputs.cache
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.AssemblyInfo.cs
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.csproj.CoreCompileInputs.cache
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.dll
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\refint\FirstDemo.Domain.dll
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\FirstDemo.Domain.pdb
+E:\DOTNET ALL\COURSE PRACTISE\FirstDemo\FirstDemo.Domain\obj\Debug\net7.0\ref\FirstDemo.Domain.dll

@@ -1,0 +1,34 @@
+﻿$btnColor:green;
+
+
+
+.myBtn{
+    background-color:$btnColor;
+}
+
+.myBtn2{
+    background-color: $btnColor;
+}
+
+.firstSection{
+    background-color:dodgerblue;
+
+    button{
+        color:blueviolet;
+        background-color:deepskyblue;
+
+        &:hover {
+            color:gold;
+            background-color:coral;
+        }
+    }
+}
+
+@mixin setColor($font-color:red,$bg-color:green){
+    color:$font-color;
+    background-color:$bg-color;
+}
+
+.myPara{
+    @include setColor(yellow,cyan);
+}
